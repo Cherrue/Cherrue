@@ -10,6 +10,7 @@
   
 
 |Company|period|Project|
+|---|---|---|
 |Hyundai-Autoever|2021.06 ~ |Search engine & API developer|
 |ROKAF|2018.06 ~ 2021.05|C4I System(Web application)|
 |Intelligent Contents Lab, Sejong Univ.|2016.01 ~ 2018.01|Predict Drama Rating|  
