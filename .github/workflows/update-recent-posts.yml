@@ -35,6 +35,7 @@ jobs:
         pip install build
         pip install bs4
         pip install requests
+        pip install pytz
     - name: Update README.md
       run: |
         python main.py
