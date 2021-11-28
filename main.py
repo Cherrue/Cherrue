@@ -1,10 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 import datetime
+import pytz
 
 timeout = 5
 blog_url = "https://cherrue.github.io/"
 dest_file_url = "README.md"
+KST = pytz.timezone('Asia/Seoul')
 
 
 def getTitleAndLinkFromResponse(res):
@@ -38,7 +40,7 @@ def getMarkdownTextFromPosts(_posts: list):
     for post in _posts:
         result += f"- [{post[0]}]({post[1]}) <br>\n"
     result += "Updated at " + \
-        datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "<br>\n"
+        datetime.datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S") + "<br>\n"
     return result
 
 
