@@ -35,7 +35,7 @@ def getPostsTop5(_url: str, _timeout):
 def getMarkdownTextFromPosts(_posts: list):
     result = ""
     for post in _posts:
-        result += f"[{post[0]}]({post[1]}) <br>\n"
+        result += f"- [{post[0]}]({post[1]}) <br>\n"
 
     return result
 
