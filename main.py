@@ -1,8 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
+import datetime
 
 timeout = 5
-blog_url = "https://cherrue.github.io/"
+blog_url = "https://chasdfasdferrue.github.io/"
 dest_file_url = "README.md"
 
 
@@ -28,7 +29,7 @@ def getPostsTop5(_url: str, _timeout):
 
         # prevent endless loop
         if retries > MAX_RETRY:
-            return ["posts parse failed", "about:blank/"]
+            return [("posts parse failed", "about:blank/")]
     return getTitleAndLinkFromResponse(res)
 
 
@@ -36,7 +37,8 @@ def getMarkdownTextFromPosts(_posts: list):
     result = ""
     for post in _posts:
         result += f"- [{post[0]}]({post[1]}) <br>\n"
-
+    result += "Updated at " + \
+        datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "<br>\n"
     return result
 
 
