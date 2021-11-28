@@ -40,7 +40,7 @@ def getMarkdownTextFromPosts(_posts: list):
     for post in _posts:
         result += f"- [{post[0]}]({post[1]}) <br>\n"
     result += "Updated at " + \
-        datetime.datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S") + "<br>\n"
+        datetime.datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S") + " (+09:00)<br>\n"
     return result
 
 
