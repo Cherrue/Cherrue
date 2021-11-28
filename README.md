@@ -14,15 +14,15 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-[[강의요약] MS Learn - Azure Database 및 분석 서비스 살펴보기
+- [[강의요약] MS Learn - Azure Database 및 분석 서비스 살펴보기
 ](/azure/azure_fundamentals/Azure-Database-%EB%B0%8F-%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/) <br>
-[[강의요약] MS Learn - Azure Storage 서비스 살펴보기
+- [[강의요약] MS Learn - Azure Storage 서비스 살펴보기
 ](/azure/azure_fundamentals/Azure-Storage-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/) <br>
-[[강의요약] MS Learn - Azure 네트워킹 서비스 살펴보기
+- [[강의요약] MS Learn - Azure 네트워킹 서비스 살펴보기
 ](/azure/azure_fundamentals/Explore-Azure-networking-services/) <br>
-[Azure 컴퓨팅 서비스 살펴보기
+- [Azure 컴퓨팅 서비스 살펴보기
 ](/azure/azure_fundamentals/Azure-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/) <br>
-[핵심 Azure 아키텍처 구성 요소 설명
+- [핵심 Azure 아키텍처 구성 요소 설명
 ](/azure/azure_fundamentals/%ED%95%B5%EC%8B%AC-Azure-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C/) <br>
 <!-- BLOG-POST-LIST:END -->  
 
