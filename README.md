@@ -24,7 +24,7 @@
 ](/azure/azure_fundamentals/Azure-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/) <br>
 - [핵심 Azure 아키텍처 구성 요소 설명
 ](/azure/azure_fundamentals/%ED%95%B5%EC%8B%AC-Azure-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C/) <br>
-Updated at 2021-11-28 10:27:19<br>
+Updated at 2021-11-28 19:36:37<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
