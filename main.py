@@ -4,7 +4,7 @@ import datetime
 import pytz
 
 timeout = 5
-blog_url = "https://cherrue.github.io/"
+blog_url = "https://cherrue.github.io"
 dest_file_url = "README.md"
 KST = pytz.timezone('Asia/Seoul')
 
@@ -38,9 +38,10 @@ def getPostsTop5(_url: str, _timeout):
 def getMarkdownTextFromPosts(_posts: list):
     result = ""
     for post in _posts:
-        result += f"- [{post[0]}]({post[1]}) <br>\n"
+        result += f"- [{post[0]}]({blog_url}{post[1]}) <br>\n"
     result += "Updated at " + \
-        datetime.datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S") + " (+09:00)<br>\n"
+        datetime.datetime.now(KST).strftime(
+            "%Y-%m-%d %H:%M:%S") + " (+09:00)<br>\n"
     return result
 
 
