@@ -14,6 +14,8 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
+- [[Github] 깃헙 프로필 꾸미기 - 깃헙 블로그 최신글 추가
+](https://cherrue.github.io/github/github_blog/github_profile/%EA%B9%83%ED%97%99-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EA%B9%83%ED%97%99-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%B5%9C%EC%8B%A0%EA%B8%80-%EC%B6%94%EA%B0%80/) <br>
 - [[강의요약] MS Learn - Azure Database 및 분석 서비스 살펴보기
 ](https://cherrue.github.io/azure/azure_fundamentals/Azure-Database-%EB%B0%8F-%EB%B6%84%EC%84%9D-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/) <br>
 - [[강의요약] MS Learn - Azure Storage 서비스 살펴보기
@@ -22,9 +24,7 @@
 ](https://cherrue.github.io/azure/azure_fundamentals/Explore-Azure-networking-services/) <br>
 - [Azure 컴퓨팅 서비스 살펴보기
 ](https://cherrue.github.io/azure/azure_fundamentals/Azure-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/) <br>
-- [핵심 Azure 아키텍처 구성 요소 설명
-](https://cherrue.github.io/azure/azure_fundamentals/%ED%95%B5%EC%8B%AC-Azure-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C/) <br>
-Updated at 2021-11-29 09:14:48 (+09:00)<br>
+Updated at 2021-11-30 09:14:40 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
