@@ -24,7 +24,7 @@
 ](https://cherrue.github.io/azure/azure_fundamentals/Explore-Azure-networking-services/) <br>
 - [Azure 컴퓨팅 서비스 살펴보기
 ](https://cherrue.github.io/azure/azure_fundamentals/Azure-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/) <br>
-Updated at 2021-11-30 09:14:40 (+09:00)<br>
+Updated at 2021-12-01 09:16:43 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
