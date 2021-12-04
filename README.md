@@ -14,17 +14,17 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
+- [[강의요약] MS Learn - monitoring service 선택
+](https://cherrue.github.io/azure/azure_fundamentals/Monitoring-service-%EC%84%A0%ED%83%9D/) <br>
+- [[강의요약] MS Learn - managing and configuring tool 선택
+](https://cherrue.github.io/azure/azure_fundamentals/managing-and-configuring-tool-%EC%84%A0%ED%83%9D/) <br>
 - [[강의요약] MS Learn - build tool 선택
 ](https://cherrue.github.io/azure/azure_fundamentals/build-tool-%EC%84%A0%ED%83%9D/) <br>
 - [[강의요약] MS Learn - Azure serverless 기술 선택
 ](https://cherrue.github.io/azure/azure_fundamentals/Azure-serverless-%EA%B8%B0%EC%88%A0-%EC%84%A0%ED%83%9D/) <br>
 - [[강의요약] MS Learn - AI 서비스 선택
 ](https://cherrue.github.io/azure/azure_fundamentals/AI-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%A0%ED%83%9D/) <br>
-- [[강의요약] MS Learn - Azure IoT 서비스 선택
-](https://cherrue.github.io/azure/azure_fundamentals/Azure-IoT-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%A0%ED%83%9D/) <br>
-- [[Github] 깃헙 프로필 꾸미기 - 깃헙 블로그 최신글 추가
-](https://cherrue.github.io/github/github_blog/github_profile/%EA%B9%83%ED%97%99-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EA%B9%83%ED%97%99-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%B5%9C%EC%8B%A0%EA%B8%80-%EC%B6%94%EA%B0%80/) <br>
-Updated at 2021-12-03 09:14:29 (+09:00)<br>
+Updated at 2021-12-04 09:15:05 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
