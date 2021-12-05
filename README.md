@@ -14,17 +14,17 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
+- [[강의요약] MS Learn - Azure 보안 네트워크 연결
+](https://cherrue.github.io/azure/azure_fundamentals/Azure-%EB%B3%B4%EC%95%88-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-%EC%97%B0%EA%B2%B0/) <br>
+- [[강의요약] MS Learn - Azure에서 보안 위협 보호
+](https://cherrue.github.io/azure/azure_fundamentals/Azure-%EB%B3%B4%EC%95%88-%EC%9C%84%ED%98%91-%EB%B3%B4%ED%98%B8/) <br>
 - [[강의요약] MS Learn - monitoring service 선택
 ](https://cherrue.github.io/azure/azure_fundamentals/Monitoring-service-%EC%84%A0%ED%83%9D/) <br>
 - [[강의요약] MS Learn - managing and configuring tool 선택
 ](https://cherrue.github.io/azure/azure_fundamentals/managing-and-configuring-tool-%EC%84%A0%ED%83%9D/) <br>
 - [[강의요약] MS Learn - build tool 선택
 ](https://cherrue.github.io/azure/azure_fundamentals/build-tool-%EC%84%A0%ED%83%9D/) <br>
-- [[강의요약] MS Learn - Azure serverless 기술 선택
-](https://cherrue.github.io/azure/azure_fundamentals/Azure-serverless-%EA%B8%B0%EC%88%A0-%EC%84%A0%ED%83%9D/) <br>
-- [[강의요약] MS Learn - AI 서비스 선택
-](https://cherrue.github.io/azure/azure_fundamentals/AI-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%A0%ED%83%9D/) <br>
-Updated at 2021-12-04 09:15:05 (+09:00)<br>
+Updated at 2021-12-05 09:15:58 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
