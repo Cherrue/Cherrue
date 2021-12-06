@@ -24,7 +24,7 @@
 ](https://cherrue.github.io/azure/azure_fundamentals/managing-and-configuring-tool-%EC%84%A0%ED%83%9D/) <br>
 - [[강의요약] MS Learn - build tool 선택
 ](https://cherrue.github.io/azure/azure_fundamentals/build-tool-%EC%84%A0%ED%83%9D/) <br>
-Updated at 2021-12-05 09:15:58 (+09:00)<br>
+Updated at 2021-12-06 09:15:10 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
