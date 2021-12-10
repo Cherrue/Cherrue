@@ -14,17 +14,17 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
+- [[강의요약] MS Learn - SLA를 고려해 Azure 서비스 선택
+](https://cherrue.github.io/azure/azure_fundamentals/SLA%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%B4-Azure-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%A0%ED%83%9D/) <br>
+- [[강의요약] MS Learn - Azure cost plan
+](https://cherrue.github.io/azure/azure_fundamentals/Azure-cost-plan/) <br>
+- [[강의요약] MS Learn - Azure 개인정보, 규정, 데이터 보호 표준 검사
+](https://cherrue.github.io/azure/azure_fundamentals/Azure-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EA%B7%9C%EC%A0%95-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%B4%ED%98%B8-%ED%91%9C%EC%A4%80-%EA%B2%80%EC%82%AC/) <br>
+- [[강의요약] MS Learn - Cloud governance on Azure
+](https://cherrue.github.io/azure/azure_fundamentals/Cloud-governance-on-Azure/) <br>
 - [[강의요약] MS Learn - Azure 보안 네트워크 연결
 ](https://cherrue.github.io/azure/azure_fundamentals/Azure-%EB%B3%B4%EC%95%88-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-%EC%97%B0%EA%B2%B0/) <br>
-- [[강의요약] MS Learn - Azure에서 보안 위협 보호
-](https://cherrue.github.io/azure/azure_fundamentals/Azure-%EB%B3%B4%EC%95%88-%EC%9C%84%ED%98%91-%EB%B3%B4%ED%98%B8/) <br>
-- [[강의요약] MS Learn - monitoring service 선택
-](https://cherrue.github.io/azure/azure_fundamentals/Monitoring-service-%EC%84%A0%ED%83%9D/) <br>
-- [[강의요약] MS Learn - managing and configuring tool 선택
-](https://cherrue.github.io/azure/azure_fundamentals/managing-and-configuring-tool-%EC%84%A0%ED%83%9D/) <br>
-- [[강의요약] MS Learn - build tool 선택
-](https://cherrue.github.io/azure/azure_fundamentals/build-tool-%EC%84%A0%ED%83%9D/) <br>
-Updated at 2021-12-09 09:14:38 (+09:00)<br>
+Updated at 2021-12-10 09:14:53 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
