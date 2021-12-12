@@ -24,7 +24,7 @@
 ](https://cherrue.github.io/azure/azure_fundamentals/Cloud-governance-on-Azure/) <br>
 - [[강의요약] MS Learn - Azure 보안 네트워크 연결
 ](https://cherrue.github.io/azure/azure_fundamentals/Azure-%EB%B3%B4%EC%95%88-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-%EC%97%B0%EA%B2%B0/) <br>
-Updated at 2021-12-11 09:13:47 (+09:00)<br>
+Updated at 2021-12-12 09:16:14 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
