@@ -24,7 +24,7 @@
 ](https://cherrue.github.io/azure/azure_fundamentals/SLA%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%B4-Azure-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%A0%ED%83%9D/) <br>
 - [[강의요약] MS Learn - Azure cost plan
 ](https://cherrue.github.io/azure/azure_fundamentals/Azure-cost-plan/) <br>
-Updated at 2021-12-30 09:15:41 (+09:00)<br>
+Updated at 2021-12-31 09:15:57 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
