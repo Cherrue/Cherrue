@@ -35,6 +35,6 @@ jobs:
         git add .
         git diff
         git config --local user.email "th885172@gmail.com"
-        git config --local user.name "Cherrue"
+        git config --local user.name "Cherrue@dont_save_commit_log"
         git commit -m "[Auto Update] Update recent blog posts to README.md"
         git push
