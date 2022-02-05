@@ -24,7 +24,7 @@
 ](https://cherrue.github.io/linux/infra/RL-%EC%84%A4%EC%B9%98-%ED%9B%84-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/) <br>
 - [[Linux] Windows PC에 Rocky Linux 설치하기
 ](https://cherrue.github.io/linux/infra/Windows-PC%EC%97%90-RL8-%EC%84%A4%EC%B9%98/) <br>
-Updated at 2022-02-04 09:16:01 (+09:00)<br>
+Updated at 2022-02-05 09:16:02 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
