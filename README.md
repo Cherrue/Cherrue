@@ -13,7 +13,7 @@
 <br/>
 
 ### 📝 Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->  test
 - [[강의요약] 스프링 부트 개념과 활용 - 4부 스프링 부트 활용 (1)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-1/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 3부 스프링 부트 원리 (2/2)
