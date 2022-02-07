@@ -12,6 +12,8 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[기술블로그] F/U 기술 블로그 목록
+](https://cherrue.github.io/engineering_blog_followup/searchengine/FU-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%AA%A9%EB%A1%9D/) <br>
 - [[강의요약] 스프링 부트 개념과 활용 - 4부 스프링 부트 활용 (1)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-1/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 3부 스프링 부트 원리 (2/2)
@@ -20,9 +22,7 @@
 ](https://cherrue.github.io/springboot/springboot_getting_started/study/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%90%EB%A6%AC/) <br>
 - [[Linux] Rocky Linux 설치 후 초기 설정하기
 ](https://cherrue.github.io/linux/infra/RL-%EC%84%A4%EC%B9%98-%ED%9B%84-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/) <br>
-- [[Linux] Windows PC에 Rocky Linux 설치하기
-](https://cherrue.github.io/linux/infra/Windows-PC%EC%97%90-RL8-%EC%84%A4%EC%B9%98/) <br>
-Updated at 2022-02-07 00:06:17 (+09:00)<br>
+Updated at 2022-02-07 09:20:14 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
