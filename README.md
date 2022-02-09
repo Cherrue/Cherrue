@@ -32,7 +32,7 @@
 ](https://cherrue.github.io/azure/azure_fundamentals/Azure-cost-plan/) <br>
 - [[강의요약] MS Learn - Azure 개인정보, 규정, 데이터 보호 표준 검사
 ](https://cherrue.github.io/azure/azure_fundamentals/Azure-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EA%B7%9C%EC%A0%95-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%B4%ED%98%B8-%ED%91%9C%EC%A4%80-%EA%B2%80%EC%82%AC/) <br>
-Updated at 2022-02-08 09:19:51 (+09:00)<br>
+Updated at 2022-02-09 09:17:43 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
