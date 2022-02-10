@@ -12,6 +12,8 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[강의요약] 스프링 부트 개념과 활용 - 활용 기본 (2)
+](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-2/) <br>
 - [[기술블로그] F/U 기술 블로그 목록
 ](https://cherrue.github.io/engineering_blog_followup/searchengine/FU-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%AA%A9%EB%A1%9D/) <br>
 - [[강의요약] 스프링 부트 개념과 활용 - 4부 스프링 부트 활용 (1)
@@ -30,9 +32,7 @@
 ](https://cherrue.github.io/azure/azure_fundamentals/SLA%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%B4-Azure-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%A0%ED%83%9D/) <br>
 - [[강의요약] MS Learn - Azure cost plan
 ](https://cherrue.github.io/azure/azure_fundamentals/Azure-cost-plan/) <br>
-- [[강의요약] MS Learn - Azure 개인정보, 규정, 데이터 보호 표준 검사
-](https://cherrue.github.io/azure/azure_fundamentals/Azure-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EA%B7%9C%EC%A0%95-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%B4%ED%98%B8-%ED%91%9C%EC%A4%80-%EA%B2%80%EC%82%AC/) <br>
-Updated at 2022-02-09 09:17:43 (+09:00)<br>
+Updated at 2022-02-10 09:17:43 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
