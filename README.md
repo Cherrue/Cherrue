@@ -12,6 +12,10 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[기술블로그] 2월 2주 주간 기술블로그 Follow Up
+](https://cherrue.github.io/engineering_blog_followup/searchengine/2%EC%9B%94-2%EC%A3%BC-%EC%A3%BC%EA%B0%84-%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-Follow/) <br>
+- [[강의요약] 스프링부트 개념과 활용 - 스프링 웹 MVC (1)
+](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-3/) <br>
 - [[강의요약] 스프링 부트 개념과 활용 - 활용 기본 (2)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-2/) <br>
 - [[기술블로그] F/U 기술 블로그 목록
@@ -28,11 +32,7 @@
 ](https://cherrue.github.io/linux/infra/Windows-PC%EC%97%90-RL8-%EC%84%A4%EC%B9%98/) <br>
 - [AZ-900 Azure Fundamentals 취득 후기
 ](https://cherrue.github.io/azure/azure_fundamentals/AZ-900-Azure-Fundamentals-%EC%B7%A8%EB%93%9D-%ED%9B%84%EA%B8%B0/) <br>
-- [[강의요약] MS Learn - SLA를 고려해 Azure 서비스 선택
-](https://cherrue.github.io/azure/azure_fundamentals/SLA%EB%A5%BC-%EA%B3%A0%EB%A0%A4%ED%95%B4-Azure-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%A0%ED%83%9D/) <br>
-- [[강의요약] MS Learn - Azure cost plan
-](https://cherrue.github.io/azure/azure_fundamentals/Azure-cost-plan/) <br>
-Updated at 2022-02-12 09:17:41 (+09:00)<br>
+Updated at 2022-02-13 09:18:35 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
