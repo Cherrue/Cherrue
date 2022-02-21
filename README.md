@@ -12,11 +12,13 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[기술블로그] 2월 3주 주간 기술블로그 Follow Up
+](https://cherrue.github.io/engineering_blog_followup/searchengine/2%EC%9B%943%EC%A3%BC-%EC%A3%BC%EA%B0%84-%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-Follow-Up/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 스프링 웹 MVC (2/2)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-MVC/) <br>
 - [[기술블로그] 2월 2주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/searchengine/2%EC%9B%94-2%EC%A3%BC-%EC%A3%BC%EA%B0%84-%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-Follow/) <br>
-- [[강의요약] 스프링부트 개념과 활용 - 스프링 웹 MVC (1)
+- [[강의요약] 스프링부트 개념과 활용 - 스프링 웹 MVC (1/2)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-3/) <br>
 - [[강의요약] 스프링 부트 개념과 활용 - 활용 기본 (2)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-2/) <br>
@@ -30,9 +32,7 @@
 ](https://cherrue.github.io/springboot/springboot_getting_started/study/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%90%EB%A6%AC/) <br>
 - [[Linux] Rocky Linux 설치 후 초기 설정하기
 ](https://cherrue.github.io/linux/infra/RL-%EC%84%A4%EC%B9%98-%ED%9B%84-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/) <br>
-- [[Linux] Windows PC에 Rocky Linux 설치하기
-](https://cherrue.github.io/linux/infra/Windows-PC%EC%97%90-RL8-%EC%84%A4%EC%B9%98/) <br>
-Updated at 2022-02-20 09:23:46 (+09:00)<br>
+Updated at 2022-02-21 09:20:19 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
