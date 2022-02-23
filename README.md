@@ -32,7 +32,7 @@
 ](https://cherrue.github.io/springboot/springboot_getting_started/study/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%90%EB%A6%AC/) <br>
 - [[Linux] Rocky Linux 설치 후 초기 설정하기
 ](https://cherrue.github.io/linux/infra/RL-%EC%84%A4%EC%B9%98-%ED%9B%84-%EC%B4%88%EA%B8%B0-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/) <br>
-Updated at 2022-02-22 09:19:42 (+09:00)<br>
+Updated at 2022-02-23 09:23:04 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
