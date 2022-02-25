@@ -12,6 +12,8 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[강의요약] 스프링부트 개념과 활용 - 스프링 데이터 (2/3)
+](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/lecture-keesun-spring-data-2/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 스프링 데이터 (1/3)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/lecture-keesun-spring-data/) <br>
 - [[기술블로그] 2월 3주 주간 기술블로그 Follow Up
@@ -30,9 +32,7 @@
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-1/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 3부 스프링 부트 원리 (2/2)
 ](https://cherrue.github.io/springboot/springboot_getting_started/study/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%90%EB%A6%AC-2/) <br>
-- [[강의요약] 스프링부트 개념과 활용 - 3부 스프링 부트 원리 (1/2)
-](https://cherrue.github.io/springboot/springboot_getting_started/study/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9B%90%EB%A6%AC/) <br>
-Updated at 2022-02-24 09:20:30 (+09:00)<br>
+Updated at 2022-02-25 09:20:29 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
