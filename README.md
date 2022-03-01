@@ -32,7 +32,7 @@
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-2/) <br>
 - [[기술블로그] F/U 기술 블로그 목록
 ](https://cherrue.github.io/engineering_blog_followup/searchengine/FU-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%AA%A9%EB%A1%9D/) <br>
-Updated at 2022-02-28 09:22:43 (+09:00)<br>
+Updated at 2022-03-01 09:22:03 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
