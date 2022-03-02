@@ -12,6 +12,8 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[강의요약] 스프링부트 개념과 활용 - 스프링 시큐리티
+](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/lecture-keesun0-spring-security/) <br>
 - [[기술블로그] 2월 4주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/searchengine/weekly-tech-blog-follow-up/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 스프링 데이터 (3/3)
@@ -30,9 +32,7 @@
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-3/) <br>
 - [[강의요약] 스프링 부트 개념과 활용 - 활용 기본 (2)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-2/) <br>
-- [[기술블로그] F/U 기술 블로그 목록
-](https://cherrue.github.io/engineering_blog_followup/searchengine/FU-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%AA%A9%EB%A1%9D/) <br>
-Updated at 2022-03-01 09:22:03 (+09:00)<br>
+Updated at 2022-03-02 09:22:07 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
