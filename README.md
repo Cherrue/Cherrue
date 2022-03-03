@@ -32,7 +32,7 @@
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-3/) <br>
 - [[강의요약] 스프링 부트 개념과 활용 - 활용 기본 (2)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-2/) <br>
-Updated at 2022-03-02 09:22:07 (+09:00)<br>
+Updated at 2022-03-03 09:23:15 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
