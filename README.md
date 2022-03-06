@@ -32,7 +32,7 @@
 ](https://cherrue.github.io/engineering_blog_followup/searchengine/2%EC%9B%94-2%EC%A3%BC-%EC%A3%BC%EA%B0%84-%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-Follow/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 스프링 웹 MVC (1/2)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-3/) <br>
-Updated at 2022-03-05 09:21:31 (+09:00)<br>
+Updated at 2022-03-06 09:20:53 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
