@@ -12,6 +12,10 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[기술블로그] 3월 1주 주간 기술블로그 Follow Up
+](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
+- [[강의요약] 스프링부트 개념과 활용 - 스프링 Actuator
+](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/lecture-keesun-spring-actuator/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 스프링 REST 클라이언트
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/lecture-keesun-spring-rest-client/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 스프링 시큐리티
@@ -28,11 +32,7 @@
 ](https://cherrue.github.io/engineering_blog_followup/searchengine/2%EC%9B%943%EC%A3%BC-%EC%A3%BC%EA%B0%84-%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-Follow-Up/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 스프링 웹 MVC (2/2)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-MVC/) <br>
-- [[기술블로그] 2월 2주 주간 기술블로그 Follow Up
-](https://cherrue.github.io/engineering_blog_followup/searchengine/2%EC%9B%94-2%EC%A3%BC-%EC%A3%BC%EA%B0%84-%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-Follow/) <br>
-- [[강의요약] 스프링부트 개념과 활용 - 스프링 웹 MVC (1/2)
-](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%ED%99%9C%EC%9A%A9-3/) <br>
-Updated at 2022-03-07 09:21:30 (+09:00)<br>
+Updated at 2022-03-08 09:19:54 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
