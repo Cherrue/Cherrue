@@ -12,6 +12,8 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[성능비교] Spring 응답 수정 방법 4 가지 성능 비교
+](https://cherrue.github.io/spring/benchmark/spring-modify-response-benchmark/) <br>
 - [[기술블로그] 3월 1주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 스프링 Actuator
@@ -30,9 +32,7 @@
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/lecture-keesun-spring-data/) <br>
 - [[기술블로그] 2월 3주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/searchengine/2%EC%9B%943%EC%A3%BC-%EC%A3%BC%EA%B0%84-%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-Follow-Up/) <br>
-- [[강의요약] 스프링부트 개념과 활용 - 스프링 웹 MVC (2/2)
-](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-MVC/) <br>
-Updated at 2022-03-10 09:18:41 (+09:00)<br>
+Updated at 2022-03-11 09:24:56 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
