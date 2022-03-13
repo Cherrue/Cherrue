@@ -32,7 +32,7 @@
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/lecture-keesun-spring-data/) <br>
 - [[기술블로그] 2월 3주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/searchengine/2%EC%9B%943%EC%A3%BC-%EC%A3%BC%EA%B0%84-%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-Follow-Up/) <br>
-Updated at 2022-03-12 09:21:48 (+09:00)<br>
+Updated at 2022-03-13 09:21:01 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
