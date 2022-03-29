@@ -12,6 +12,8 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[기술블로그] SK Devocean 검색, 추천 분야 포스팅 요약
+](https://cherrue.github.io/engineering_blog_followup/searchengine/weekly-tech-blog-sk-search-posts/) <br>
 - [[기술블로그] 3월 3주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/searchengine/weekly-tech-blog-follow-up-march3/) <br>
 - [[기술블로그] 3월 2주 주간 기술블로그 Follow Up
@@ -30,9 +32,7 @@
 ](https://cherrue.github.io/engineering_blog_followup/searchengine/weekly-tech-blog-follow-up/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 스프링 데이터 (3/3)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/lecture-keesun-spring-data-3/) <br>
-- [[강의요약] 스프링부트 개념과 활용 - 스프링 데이터 (2/3)
-](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/lecture-keesun-spring-data-2/) <br>
-Updated at 2022-03-28 09:23:07 (+09:00)<br>
+Updated at 2022-03-29 09:27:37 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
