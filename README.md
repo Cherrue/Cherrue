@@ -46,7 +46,7 @@ Updated at 2022-03-31 09:23:25 (+09:00)<br>
     
 |Company|period|Project|
 |---|---|---|
-|Hyundai-Autoever|2021.06 ~ |Develope search engine and API|
+|Hyundai-Autoever|2021.06 ~ |Develope search engine and API<br/>OpenApi routomap search developer|
 |ROKAF|2018.06 ~ 2021.05|Maintain C4I web application<br/>Develope android encryption module|
 |Intelligent Contents Lab, Sejong Univ.|2016.01 ~ 2018.01|Study TV drama rating prediction|</div>
 </details>
