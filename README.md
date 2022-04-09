@@ -32,7 +32,7 @@
 ](https://cherrue.github.io/engineering_blog_followup/searchengine/weekly-tech-blog-follow-up/) <br>
 - [[강의요약] 스프링부트 개념과 활용 - 스프링 데이터 (3/3)
 ](https://cherrue.github.io/lecture_summary/springboot/springboot_getting_started/lecture-keesun-spring-data-3/) <br>
-Updated at 2022-04-08 09:26:10 (+09:00)<br>
+Updated at 2022-04-09 09:25:24 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
