@@ -12,6 +12,8 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[기술블로그] 6월 2주 주간 기술블로그 Follow Up
+](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up-Jun-2/) <br>
 - [[기술블로그] 5월 2주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up-May-2/) <br>
 - [[기술블로그] 4월 4주 주간 기술블로그 Follow Up
@@ -58,7 +60,7 @@
 ](https://cherrue.github.io/javascript/chrome%EC%9D%80-%EC%B0%BD-%ED%81%AC%EA%B8%B0-%EA%B3%A0%EC%A0%95%EC%9D%B4-%EC%95%88-%EB%90%9C%EB%8B%A4/) <br>
 - [[mac] VSCode에 C++ 세팅하기
 ](https://cherrue.github.io/mac/setting/mac-VSCode%EC%97%90-C++-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/) <br>
-Updated at 2022-06-16 09:27:19 (+09:00)<br>
+Updated at 2022-06-17 09:27:27 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
