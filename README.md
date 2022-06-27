@@ -12,6 +12,16 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[Springboot] OAuth2 와 JWT (4) 세션 유지(JWT)
+](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-jwt/) <br>
+- [[Springboot] OAuth2 와 JWT (3) database 연결
+](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-spring-database/) <br>
+- [[Springboot] OAuth2 와 JWT (2) SNS 연동 구현
+](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-spring-tutorials/) <br>
+- [[Springboot] OAuth2 와 JWT (1) 이론
+](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-base/) <br>
+- [[기술블로그] 6월 4주 주간 기술블로그 Follow Up
+](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up-Jun-4/) <br>
 - [[기술블로그] 6월 3주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up-Jun-3/) <br>
 - [[기술블로그] 6월 2주 주간 기술블로그 Follow Up
@@ -62,7 +72,7 @@
 ](https://cherrue.github.io/javascript/chrome%EC%9D%80-%EC%B0%BD-%ED%81%AC%EA%B8%B0-%EA%B3%A0%EC%A0%95%EC%9D%B4-%EC%95%88-%EB%90%9C%EB%8B%A4/) <br>
 - [[mac] VSCode에 C++ 세팅하기
 ](https://cherrue.github.io/mac/setting/mac-VSCode%EC%97%90-C++-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/) <br>
-Updated at 2022-06-26 09:33:45 (+09:00)<br>
+Updated at 2022-06-27 09:31:27 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
