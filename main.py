@@ -4,6 +4,7 @@ import datetime
 import pytz
 
 timeout = 5
+PARSE_POST_NUM = 5
 blog_url = "https://cherrue.github.io"
 dest_file_url = "README.md"
 KST = pytz.timezone('Asia/Seoul')
@@ -14,7 +15,7 @@ def getTitleAndLinkFromResponse(res):
     articles = soup.select('article')
     articles_data = [(article.select_one('a').get_text(), article.select_one('a').get("href"))
                      for article in articles]
-    return articles_data
+    return articles_data[:PARSE_POST_NUM]
 
 
 def getPostsTop5(_url: str, _timeout):
