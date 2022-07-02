@@ -22,7 +22,7 @@
 ](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-base/) <br>
 - [[기술블로그] 6월 4주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up-Jun-4/) <br>
-Updated at 2022-07-01 09:31:43 (+09:00)<br>
+Updated at 2022-07-02 09:30:15 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
