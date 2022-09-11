@@ -22,7 +22,7 @@
 ](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-spring-tutorials/) <br>
 - [[Springboot] OAuth2 와 JWT (1) 이론
 ](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-base/) <br>
-Updated at 2022-09-10 09:34:09 (+09:00)<br>
+Updated at 2022-09-11 09:30:55 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
