@@ -12,6 +12,8 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[기술블로그] 10월 1주 주간 기술블로그 Follow Up
+](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
 - [[기술블로그] 6월 5주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up-Jun-5/) <br>
 - [[Springboot] OAuth2 와 JWT (4) 세션 유지(JWT)
@@ -20,9 +22,7 @@
 ](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-spring-database/) <br>
 - [[Springboot] OAuth2 와 JWT (2) SNS 연동 구현
 ](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-spring-tutorials/) <br>
-- [[Springboot] OAuth2 와 JWT (1) 이론
-](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-base/) <br>
-Updated at 2022-10-09 09:36:16 (+09:00)<br>
+Updated at 2022-10-10 09:43:08 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
