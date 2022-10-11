@@ -22,7 +22,7 @@
 ](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-spring-database/) <br>
 - [[Springboot] OAuth2 와 JWT (2) SNS 연동 구현
 ](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-spring-tutorials/) <br>
-Updated at 2022-10-10 09:43:08 (+09:00)<br>
+Updated at 2022-10-11 09:37:59 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
