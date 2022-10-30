@@ -22,7 +22,7 @@
 ](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up-Jun-5/) <br>
 - [[Springboot] OAuth2 와 JWT (4) 세션 유지(JWT)
 ](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-jwt/) <br>
-Updated at 2022-10-29 09:28:15 (+09:00)<br>
+Updated at 2022-10-30 09:39:27 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
