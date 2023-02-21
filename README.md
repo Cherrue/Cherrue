@@ -12,6 +12,8 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [[기술블로그] 2월 3주 주간 기술블로그 Follow Up
+](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
 - [[기술블로그] 2월 2주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
 - [[기술블로그] 1월 -46주 주간 기술블로그 Follow Up
@@ -20,9 +22,7 @@
 ](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
 - [[기술블로그] 1월 -48주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
-- [[기술블로그] 1월 -49주 주간 기술블로그 Follow Up
-](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
-Updated at 2023-02-20 09:31:57 (+09:00)<br>
+Updated at 2023-02-21 09:30:26 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
