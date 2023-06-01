@@ -22,7 +22,7 @@
 ](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
 - [[기술블로그] 4월 5주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
-Updated at 2023-05-31 09:29:25 (+09:00)<br>
+Updated at 2023-06-01 09:36:21 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
