@@ -10,7 +10,7 @@
 - 📝 I regularly write articles on [github blog](http://Cherrue.github.io/) 
 <br/>
 
-## My Skill Set  
+## 🎨 My Skill Set  
 <table><tr><td valign="top" width="33%" border="none">
 
 <h3 align="center"> Frontend  </h3>
@@ -56,7 +56,7 @@
 |---|---|---|---|
 |NHN Cloud|2022.11 ~ |Develope API and log pipeline for NHN AppGuard|[🛡️ NHN AppGuard Introduction](https://www.nhncloud.com/kr/service/security/nhn-appguard)|
 |HYUNDAI AutoEver|2021.06 ~ 2022.11|Develope API and search engine for Navigation in Hyundai motor|[🚗 Hyundai Motor Unified Search Introduction](http://webmanual.hyundai.com/STD_GEN5W/AVNT/KOR/Korean/006_Navigation_find.html#unified)<br/>[🔎 RoutoMap API Guide](https://www.routo.com/developers/rest_api/document.html#_poi_통합_검색_요청)|
-|ROKAF|2018.06 ~ 2021.05|Develope API and JSP for AFCCS in ROKAF<br/>Develope java crypto module|[🛩️ What is AFCCS and C4I](http://www.weunus.com/C4I.html#)|
+|ROKAF|2018.06 ~ 2021.05|Develope API and JSP for AFCCS in ROKAF<br/>Develope java crypto module|[🛩️ What is AFCCS?](http://www.weunus.com/C4I.html#)|
 
 <br/>  
 
