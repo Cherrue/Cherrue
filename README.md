@@ -15,35 +15,35 @@
 
 <h3 align="center"> Frontend  </h3>
 <div align="center">  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href='#' target="_blank"><img alt='vue.js' src='https://img.shields.io/badge/vue.js-100000?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=4fc08d&color=4fc08d'/></a>
+<a href='#' target="_blank"><img alt='Flutter' src='https://img.shields.io/badge/flutter-100000?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=02569B&color=02569B'/></a>
+<a href='#' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f7df1e&color=f7df1e'/></a>
 </div>
 
 </td><td valign="top" width="33%">
 
 <h3 align="center"> Backend  </h3>
 <div align="center">  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href='#' target="_blank"><img alt='trino' src='https://img.shields.io/badge/trino-100000?style=for-the-badge&logo=trino&logoColor=white&labelColor=dd00a1&color=dd00a1'/></a>
+<a href='#' target="_blank"><img alt='springboot' src='https://img.shields.io/badge/springboot-100000?style=for-the-badge&logo=springboot&logoColor=FFFFFF&labelColor=6DB33F&color=6DB33F'/></a>
+<a href='#' target="_blank"><img alt='elasticsearch' src='https://img.shields.io/badge/elasticsearch-100000?style=for-the-badge&logo=elasticsearch&logoColor=FFFFFF&labelColor=005571&color=005571'/></a>
+<a href='#' target="_blank"><img alt='mariadb' src='https://img.shields.io/badge/maria_db-100000?style=for-the-badge&logo=mariadb&logoColor=FFFFFF&labelColor=003545&color=003545'/></a>
+<a href='#' target="_blank"><img alt='redis' src='https://img.shields.io/badge/redis-100000?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D&color=DC382D'/></a>
 </div>
 
 </td><td valign="top" width="33%">
 
 <h3 align="center"> DevOps  </h3>
 <div align="center">  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href='#' target="_blank"><img alt='kubernetes' src='https://img.shields.io/badge/kubernetes-100000?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=3970e4&color=3970e4'/></a>
+<a href='#' target="_blank"><img alt='docker' src='https://img.shields.io/badge/docker-100000?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED'/></a>
+<a href='#' target="_blank"><img alt='apache kafka' src='https://img.shields.io/badge/kafka-100000?style=for-the-badge&logo=apache kafka&logoColor=white&labelColor=231F20&color=231F20'/></a>
+<a href='#' target="_blank"><img alt='ansible' src='https://img.shields.io/badge/ansible-100000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=EE0000&color=EE0000'/></a>
+<a href='#' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB'/></a>
+<a href='#' target="_blank"><img alt='jenkins' src='https://img.shields.io/badge/jenins-100000?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=D24939&color=D24939'/></a>
+<a href='#' target="_blank"><img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=F05032'/></a>
+<a href='#' target="_blank"><img alt='icloud' src='https://img.shields.io/badge/cloud-100000?style=for-the-badge&logo=icloud&logoColor=white&labelColor=3693F3&color=3693F3'/></a>
+<a href='#' target="_blank"><img alt='linux' src='https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FCC624&color=FCC624'/></a>
 </div>
 
 </td></tr></table>  
