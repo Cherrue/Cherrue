@@ -26,16 +26,15 @@
 <div align="center">  
 <a href='#' target="_blank"><img alt='trino' src='https://img.shields.io/badge/trino-100000?style=for-the-badge&logo=trino&logoColor=white&labelColor=dd00a1&color=dd00a1'/></a>
 <a href='#' target="_blank"><img alt='springboot' src='https://img.shields.io/badge/springboot-100000?style=for-the-badge&logo=springboot&logoColor=FFFFFF&labelColor=6DB33F&color=6DB33F'/></a>
-<a href='#' target="_blank"><img alt='elasticsearch' src='https://img.shields.io/badge/elasticsearch-100000?style=for-the-badge&logo=elasticsearch&logoColor=FFFFFF&labelColor=005571&color=005571'/></a>
 <a href='#' target="_blank"><img alt='mariadb' src='https://img.shields.io/badge/maria_db-100000?style=for-the-badge&logo=mariadb&logoColor=FFFFFF&labelColor=003545&color=003545'/></a>
 <a href='#' target="_blank"><img alt='redis' src='https://img.shields.io/badge/redis-100000?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D&color=DC382D'/></a>
+<a href='#' target="_blank"><img alt='elasticsearch' src='https://img.shields.io/badge/elasticsearch-100000?style=for-the-badge&logo=elasticsearch&logoColor=FFFFFF&labelColor=005571&color=005571'/></a>
 </div>
 
 </td><td valign="top" width="33%">
 
 <h3 align="center"> DevOps  </h3>
 <div align="center">  
-<a href='#' target="_blank"><img alt='kubernetes' src='https://img.shields.io/badge/kubernetes-100000?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=3970e4&color=3970e4'/></a>
 <a href='#' target="_blank"><img alt='docker' src='https://img.shields.io/badge/docker-100000?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED'/></a>
 <a href='#' target="_blank"><img alt='apache kafka' src='https://img.shields.io/badge/kafka-100000?style=for-the-badge&logo=apache kafka&logoColor=white&labelColor=231F20&color=231F20'/></a>
 <a href='#' target="_blank"><img alt='ansible' src='https://img.shields.io/badge/ansible-100000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=EE0000&color=EE0000'/></a>
@@ -44,6 +43,8 @@
 <a href='#' target="_blank"><img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=F05032'/></a>
 <a href='#' target="_blank"><img alt='icloud' src='https://img.shields.io/badge/cloud-100000?style=for-the-badge&logo=icloud&logoColor=white&labelColor=3693F3&color=3693F3'/></a>
 <a href='#' target="_blank"><img alt='linux' src='https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FCC624&color=FCC624'/></a>
+<a href='#' target="_blank"><img alt='kubernetes' src='https://img.shields.io/badge/kubernetes-100000?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=3970e4&color=3970e4'/></a>
+  <br/>  <br/>
 </div>
 
 </td></tr></table>  
