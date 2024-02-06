@@ -63,17 +63,17 @@
 
 ### 📝 Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [[기술블로그] 1월 4주 주간 기술블로그 Follow Up
-](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
-- [[기술블로그] 1월 3주 주간 기술블로그 Follow Up
-](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
-- [[기술블로그] 1월 2주 주간 기술블로그 Follow Up
-](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
-- [[기술블로그] 1월 1주 주간 기술블로그 Follow Up
-](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
-- [[기술블로그] 12월 5주 주간 기술블로그 Follow Up
-](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up/) <br>
-Updated at 2024-02-05 09:26:22 (+09:00)<br>
+- [[Springboot] OAuth2 와 JWT (4) 세션 유지(JWT)
+](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-jwt/) <br>
+- [[Springboot] OAuth2 와 JWT (3) database 연결
+](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-spring-database/) <br>
+- [[Springboot] OAuth2 와 JWT (2) SNS 연동 구현
+](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-spring-tutorials/) <br>
+- [[Springboot] OAuth2 와 JWT (1) 이론
+](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-base/) <br>
+- [[기술블로그] 5월 2주 주간 기술블로그 Follow Up
+](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up-May-2/) <br>
+Updated at 2024-02-06 09:24:47 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 
