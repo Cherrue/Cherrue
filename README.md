@@ -73,7 +73,7 @@
 ](https://cherrue.github.io/springboot/authentication/springboot-oauth-jwt-base/) <br>
 - [[기술블로그] 5월 2주 주간 기술블로그 Follow Up
 ](https://cherrue.github.io/engineering_blog_followup/weekly-tech-blog-follow-up-May-2/) <br>
-Updated at 2025-05-24 09:38:38 (+09:00)<br>
+Updated at 2025-05-25 09:44:56 (+09:00)<br>
 <!-- BLOG-POST-LIST:END -->  
 
 
